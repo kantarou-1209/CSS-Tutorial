@@ -1,3 +1,36 @@
 /* 6つのp要素に適用するスタイルを宣言 */
-
+p{
+    color: white;
+    font-size: 16px;
+}
+.back-blue{
+    background-color: blue;
+}
+.yellow{
+    color: yellow;
+}
+.red{
+    color: red;
+}
+.font-y{
+    color: yellow;
+}
+.font-b{
+    color: blue;
+}
+.font-r{
+    color: red;
+}
+.back-haiiro{
+    background-color: gray;
+}
+.back-green{
+    background-color: green;
+}
+.back-chairo{
+    background-color: brown;
+}
+#f-size{
+    font-size: 12px;
+}
 /* 6つのli要素に適用するスタイルを宣言 */
