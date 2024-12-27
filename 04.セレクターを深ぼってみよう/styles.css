@@ -7,12 +7,22 @@ main {
   display: flex;
   flex-direction: row;
 }
-
+.content h2 {
+  font-size: 32px;
+  color: #6B8E23;
+}
+.content p{
+  font-size: 20px;
+  color: #20B2AA;
+}
 .content {
   padding-right: 50px;
   margin-right: 20px;
 }
 
+.side h3+p{
+  color: red;
+}
 
 /* contentクラスの中にあるh2要素とp要素に適用するスタイル */
 
